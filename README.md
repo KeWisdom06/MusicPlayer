@@ -25,26 +25,32 @@ Navigate to the project directory using cd.
 
 ```bash
 // For example
-
 cd "/Users/yourname/Downloads/Sample Slicer"
 
 ```
 2. Compile the Program(s)
 
-Compile all java files:
+   * Compile all java files:
+
+      * Compile the Music Player program
 ```bash
 javac JavaGUIMusicPlayerJFrame.java
-javac ProgressBarDemo.java
+```
+
+ * (Optional) Compile the Main program to run the Progress Bar demo 
+```bash
+javac Main.java
 ```
 
 3. Run the Program(s)
    
-Launch the program by running the following commands the JavaGUIMusicPlayerJFrame class (in your terminal):
+* Launch the program by running the following command on the JavaGUIMusicPlayerJFrame class (in your terminal):
 ```bash
 java JavaGUIMusicPlayerJFrame
-java ProgressBarDemo
 ```
-## How to Use Program
+If you'd like to launch the progress bar aplication, the same 'java' command is is carried out in the terminal
+
+## How to Use the JavaGUIMusicPlayerJFrame Program
 
 1. Launch the JavaGuiMusicPlayerJFrame application
 2. Click Choose File
@@ -63,7 +69,7 @@ It was built using Java Swing components and the Java Sound API (Clip, AudioInpu
 
 I am currently working on a refactored modular architecture for the program, as well as adding extra functionality like a Seek Slider
 
-I hope to someday develop it into a sampler with a DAW (Digital Audio Workstation) inspired workflow, but for now i want to set the foundation first...
+I hope to someday develop it into a sampler with a DAW (Digital Audio Workstation) inspired workflow, but for now i want to set the foundation...
 
 This project was also created with the intent of developing my skills as a Software programmer using java, as well as practicing using Github as a source code control tool. 
 
