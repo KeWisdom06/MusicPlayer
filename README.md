@@ -69,7 +69,7 @@ It was built using Java Swing components and the Java Sound API (Clip, AudioInpu
 
 I am currently working on a refactored modular architecture for the program, as well as adding extra functionality like a Seek Slider
 
-I hope to someday develop it into a sampler with a DAW (Digital Audio Workstation) inspired workflow, but for now i want to set the foundation...
+I hope to someday develop it into a sampler with a DAW (Digital Audio Workstation) inspired workflow, but for now, this project was made to set the foundation...
 
 This project was also created with the intent of developing my skills as a Software programmer using java, as well as practicing using Github as a version control tool. 
 
