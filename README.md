@@ -71,7 +71,7 @@ I am currently working on a refactored modular architecture for the program, as 
 
 I hope to someday develop it into a sampler with a DAW (Digital Audio Workstation) inspired workflow, but for now i want to set the foundation...
 
-This project was also created with the intent of developing my skills as a Software programmer using java, as well as practicing using Github as a source code control tool. 
+This project was also created with the intent of developing my skills as a Software programmer using java, as well as practicing using Github as a version control tool. 
 
 
 
